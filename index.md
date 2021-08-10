@@ -40,6 +40,7 @@ Zoom 参加者にメールでお知らせします。
 - 富谷昭夫 "Google colabで始めるJulia"
 - 永井佑紀 "Fortran から始めるJulia"（プロセス並列化などもふくめて） 
 - Satoshi Terasaki TBA
+
 その他未定。
 
 チュートリアル講演: 20分 or 30分
