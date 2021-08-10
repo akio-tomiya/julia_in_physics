@@ -36,7 +36,7 @@ Zoom 参加者にメールでお知らせします。
 
 13:30 ~ 15:00
 
-## チュートリアル
+## チュートリアル講演
 - 富谷昭夫 "Google colabで始めるJulia"
 - 永井佑紀 "Fortran から始めるJulia"（プロセス並列化などもふくめて） 
 - Satoshi Terasaki TBA
