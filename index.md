@@ -34,12 +34,17 @@ Zoom 参加者にメールでお知らせします。
 
 講演はYoutube にアップロード予定(希望者のみ)。
 
+13:30 ~ 15:00
+
 ## チュートリアル
-- 富谷 Google colabで始めるJulia
-- 永井 Fortran から始めるJulia（プロセス並列化などもふくめて） 
+- 富谷昭夫 "Google colabで始めるJulia"
+- 永井佑紀 "Fortran から始めるJulia"（プロセス並列化などもふくめて） 
+- Satoshi Terasaki TBA
 その他未定。
 
-チュートリアル講演: 30分
+チュートリアル講演: 20分 or 30分
+
+15:15 ~ 17:15
 
 ## 一般講演
 - 12分(発表)+2分(質疑)+1分(交代): 応募開始未定
@@ -50,7 +55,7 @@ Zoom 参加者にメールでお知らせします。
 
 # 連絡先
 
-akio[_AT_]yukawa.kyoto-u.ac.jp
+akio[ _ AT _ ]yukawa.kyoto-u.ac.jp
 
 
 
