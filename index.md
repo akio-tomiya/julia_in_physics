@@ -4,7 +4,7 @@
 
 # 概要
 Juliaは2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、
-Fortranの様に高速でかつPythonの様に生産性の高い言語である [リンク](https://www.geidai.ac.jp/~marui/julialang/why_we_created_julia/index.html)。
+Fortranの様に高速でかつPythonの様に生産性の高い言語である [[リンク](https://www.geidai.ac.jp/~marui/julialang/why_we_created_julia/index.html)]。
 Julia は様々な分野において活用が始まっている。
 本研究会では、主に物理研究においてのJulia の使用例や高速化手法について議論する。
 また可視化、微分方程式の数値解法、統計・機械学習分野への応用例や実装例も議論の対象とする。
