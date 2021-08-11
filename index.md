@@ -39,10 +39,9 @@ Zoom 参加者にメールでお知らせします。
 
 13:30 ~ 15:00
 
-### "Google colabで始めるJulia"
-#### 講演者: 富谷昭夫 
-
-概要: 本講演では、インストールせずにつかえるJulia 環境が使えるGoogle Colab をつかってJulia に入門する。
+### "Google colabで始めるJulia" <br>
+講演者: 富谷昭夫 <br>
+概要: 本講演では、インストールせずにつかえるJulia 環境が使えるGoogle Colab をつかってJulia に入門する。 <br>
 
 ### "Fortran から始めるJulia"（プロセス並列化などもふくめて） 
 - 永井佑紀
