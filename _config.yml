@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 # Site Settings
 locale                   : "ja"
 title                    : "Julia in Physics 2021 Online"
