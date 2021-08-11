@@ -39,6 +39,8 @@ Zoom 参加者にメールでお知らせします。
 
 13:30 ~ 15:00
 
+### TBA
+
 ### "Google colabで始めるJulia" <br>
 講演者: 富谷昭夫 <br>
 概要: 本講演では、インストールせずにつかえるJulia 環境が使えるGoogle Colab をつかってJulia に入門する。 <br>
