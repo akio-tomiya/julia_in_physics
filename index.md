@@ -80,12 +80,12 @@ Zoom 参加者にメールでお知らせします。
 登壇希望の方は、必要情報をご入力ください。
 参加URLのついたアナウンスのメールを送信します。<br>
  
-<b>
 <center>
+<b>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZFI5S7xPB9LpY_72m1EGJQrnyFoXN2lrNj6sXep8iETjFPQ/viewform">登録フォーム</a>
+</b>
 <br>
 </center>
-</b>
 (締切は前日の夜11時までとします)
 
 # 連絡先
