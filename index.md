@@ -42,8 +42,8 @@ Zoom 参加者にメールでお知らせします。
 概要: TBA <br> 
 
 ### TBA (Zygote, Flux 関係)
-講演者: TBA <br>
-所属: TBA <br> 
+講演者: 寺崎 敏志 <br>
+所属: AtelierArith <br> 
 概要: TBA <br> 
 
 ### TBA (Google colab, jupyter関係)
