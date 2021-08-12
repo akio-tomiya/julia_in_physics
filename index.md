@@ -47,8 +47,8 @@ Zoom 参加者にメールでお知らせします。
 概要: TBA <br> 
 
 ### TBA (Google colab, jupyter関係)
-講演者: TBA <br>
-所属: TBA <br> 
+講演者: 長瀬 伊織 <br>
+所属: 東北大学 理学研究科 <br> 
 概要: TBA <br> 
 
 ## 一般講演
