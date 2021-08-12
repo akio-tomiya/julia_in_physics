@@ -41,7 +41,7 @@ Zoom 参加者にメールでお知らせします。
 所属: 原子力機構 システム計算科学センター、理化学研究所 革新知能統合センター<br>
 概要: TBA <br> 
 
-### TBA (Zygote, Flux 関係)
+### TBA (Zygote, Flux、可視化 関係)
 講演者: 寺崎 敏志 <br>
 所属: AtelierArith <br> 
 概要: TBA <br> 
