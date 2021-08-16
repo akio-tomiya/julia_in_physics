@@ -73,7 +73,10 @@ Zoom
 ### (招待講演) "LatticeQCD.jlで始める格子QCD"
 講演者: 富谷 昭夫<br>
 所属: 大阪国際工科専門職大学 <br>
-概要: TBA <br>
+概要: 
+QCD(Quantum Chromo-dynamics)は原子核内部を記述する第一原理的な理論である。格子QCDは、そのための理論的枠組であるが計算コストが非常に高い事が知られている。
+本講演では、Julia で実装された格子QCDの公開コードである[LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl)を紹介する。
+<br>
 
 # 参加or 登壇応募フォーム
 
