@@ -93,7 +93,7 @@ julia言語では * と . を上手く使う事によって感受率テンソル
 概要: 
 "核子の多体系である原子核は、核力にまつわる原理的困難から定量的な理解・理論予測が非常に難しい系である。
 そうした原子核の静的な性質(核構造)を理論的に調べる上で、配置間相互作用法(CI計算)は必須のアプローチとなる。
-講演ではJulia言語を用いた計算コード[ShellModel.jl](https://github.com/SotaYoshida/ShellModel.jl) についてhttps://arxiv.org/abs/2105.08256 とあわせて紹介する。" <br>
+講演ではJulia言語を用いた計算コード[ShellModel.jl](https://github.com/SotaYoshida/ShellModel.jl) について[https://arxiv.org/abs/2105.08256](https://arxiv.org/abs/2105.08256) とあわせて紹介する。" <br>
 
 ### スパコン・GPUでJuliaを使う：cTPQ状態法を舞台に
 講演者: 山田 昌彦 <br>
