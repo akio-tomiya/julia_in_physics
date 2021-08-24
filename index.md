@@ -41,6 +41,7 @@ Zoom
 ### 1. "いまから使えるJulia言語"
 講演者: 佐藤 建太 <br>
 所属: 理化学研究所 生命機能科学研究センター <br>
+主な著書: 1から始めるJuliaプログラミング [Amazon](https://www.amazon.co.jp/1%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8B-Julia%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%80%B2%E8%97%A4-%E8%A3%95%E4%B9%8B/dp/433902905X)[コロナ社(電子版あり)] (coronasha.co.jp/np/isbn/9784339029055/)<br>
 Twitter: [bicycle1885](https://twitter.com/bicycle1885) <br>
 講演時間: 30分 +5分(質疑)<br> 
 概要: 
