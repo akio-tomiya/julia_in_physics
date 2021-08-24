@@ -23,6 +23,11 @@ Zoom
 * 参加時の表示名は「登録時の名前＠登録した機関名」に設定してください。
 * ノイズを防ぐためのミュートへご協力ください。
 
+# 議論場所
+
+Github discussions を用意してます。
+[こちらからどうぞ](https://github.com/akio-tomiya/julia_in_physics/discussions)。
+
 # プログラム
 
 講演はYoutube にアップロード予定(許可が出た講演のみ)。
