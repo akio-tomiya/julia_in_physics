@@ -25,7 +25,7 @@ Zoom
 
 # 議論場所
 
-Github discussions を用意してます。
+議論用の掲示板としてGithub discussions を用意してます。
 [こちらからどうぞ](https://github.com/akio-tomiya/julia_in_physics/discussions)。
 
 # プログラム
