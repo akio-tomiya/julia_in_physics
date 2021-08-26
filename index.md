@@ -49,7 +49,7 @@ Twitter: [bicycle1885](https://twitter.com/bicycle1885) <br>
 Juliaをいまから使い始めるのに必要最低限の知識を概説する。Juliaの特徴と構文からはじめ、基本機能である型システムと多重ディスパッチを紹介し、標準ライブラリと外部パッケージでそれらがどう活用されているかを解説する。
 <br> 
 
-### 2. TBA (Google colab, jupyter関係)
+### 2. jupyterとGoogle colabで使うjulia入門
 講演者: 長瀬 伊織 <br>
 所属: 東北大学 理学研究科 <br> 
 講演時間: 20分 or 30分 +5分(質疑)<br> 
