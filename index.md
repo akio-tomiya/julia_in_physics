@@ -67,6 +67,8 @@ Juliaをいまから使い始めるのに必要最低限の知識を概説する
 講演者: 寺崎 敏志 <br>
 所属: AtelierArith <br> 
 講演時間:  20分 or 30分 +5分(質疑)<br> 
+[スライド](https://atelierarith.github.io/zygote_flux_tutorial/#1)
+[講演資料](https://github.com/AtelierArith/zygote_flux_tutorial)<br> 
 Youtubeへの掲載はありません<br> 
 概要: 関数に対しその導関数を数値計算する自動微分は今日の機械学習・深層学習において
 重要な要素技術になっている. 本チュートリアルでは自動微分をサポートする Zygote.jl 
