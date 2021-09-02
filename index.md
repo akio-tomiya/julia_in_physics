@@ -53,7 +53,10 @@ Juliaをいまから使い始めるのに必要最低限の知識を概説する
 ### 2. jupyterとGoogle colabで使うjulia入門
 講演者: 長瀬 伊織 <br>
 所属: 東北大学 理学研究科 <br> 
+Twitter: [benkyouaho](https://twitter.com/benkyouaho) <br>
 講演時間: 14:10-14:35, 20分+5分(質疑)<br> 
+[スライド](https://drive.google.com/file/d/19C366zcp3K5w6GhY0Y45iZjzJS0WdbHr/view) 
+[colabで使うJuliaのデモ](https://colab.research.google.com/drive/1a7XdlEM5HkkSxwJmjMxnpTFsSjK5m2jX?usp=sharing)<br> 
 概要: 本講演では、jupyter-notebookや Google colaboratoryについての説明や、それらでjulia言語を用いる方法について説明していく。これらのipynb形式は必ずしも必要ではないが、教育やコードの公開で使われることが多いので、実際に触れてみることを推奨します。 <br> 
 
 ### 3. "Fortran から始めるJulia"
@@ -68,7 +71,7 @@ Juliaをいまから使い始めるのに必要最低限の知識を概説する
 講演者: 寺崎 敏志 <br>
 所属: AtelierArith <br> 
 講演時間: 15:00-15:35, 30分 +5分(質疑)<br> 
-[スライド](https://atelierarith.github.io/zygote_flux_tutorial/#1)
+[スライド](https://atelierarith.github.io/zygote_flux_tutorial/#1) 
 [講演資料](https://github.com/AtelierArith/zygote_flux_tutorial)<br> 
 Youtubeへの掲載はありません<br> 
 概要: 関数に対しその導関数を数値計算する自動微分は今日の機械学習・深層学習において
