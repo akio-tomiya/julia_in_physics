@@ -46,6 +46,7 @@ Zoom
 [[コロナ社(電子版あり)](https://www.coronasha.co.jp/np/isbn/9784339029055/) ]<br>
 Twitter: [bicycle1885](https://twitter.com/bicycle1885) <br>
 講演時間: 13:35-14:10, 30分 +5分(質疑)<br> 
+[スライド](https://www.bicycle1885.org/slides/2021/juliainphysics2021/#1)<br> 
 概要: 
 Juliaをいまから使い始めるのに必要最低限の知識を概説する。Juliaの特徴と構文からはじめ、基本機能である型システムと多重ディスパッチを紹介し、標準ライブラリと外部パッケージでそれらがどう活用されているかを解説する。
 <br> 
