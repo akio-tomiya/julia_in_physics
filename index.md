@@ -66,6 +66,7 @@ Twitter: [benkyouaho](https://twitter.com/benkyouaho) <br>
 概要: 
 本チュートリアルでは、数値計算をFortran言語を用いて行ってきた研究者を主に対象として、Julia言語の紹介を行う。特に、Fortranとの違いについて述べるとともに、FortranコードをJuliaコードに書き換える方法について述べる。<br>
 また、チュートリアル講演中にリアルタイムでFortranのコードをJuliaのコードの書き換えるライブコーディングを行う予定である。<br>
+[特設サイト：Fortranから始めるJulia](https://cometscome.github.io/JuliaFromFortran/build/)<br>
 
 ### 4. Zygote.jl/ Flux.jl のお話
 講演者: 寺崎 敏志 <br>
