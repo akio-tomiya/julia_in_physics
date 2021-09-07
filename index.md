@@ -103,6 +103,8 @@ Youtubeへの掲載はありません<br>
 講演者: 與儀 護 <br>
 所属: 琉球大学理学部 <br>
 講演時間: 16:00-16:15<br> 
+[スライド(pdf)](Julia_in_Physics_yogi.pdf)<br>
+[スライド(アニメーションあり)](https://docs.google.com/presentation/d/e/2PACX-1vSklLYStE5spZCpKQI3ZUwOWxoVCu5gThBpGNvK2j-nrAudaobhXGb07fzO-ZRGv1YvdhF-29Z9LBuc/pub?start=true&loop=false&delayms=60000) <br>
 概要: 核磁気共鳴（NMR）は磁性や超伝導などの固体物性に関する研究手法の一つである。実験で得られたスペクトルの解析には、種々の相互作用を考慮した核スピンハミルトニアンの厳密対角化が用いられる。本講演ではJuliaを用いたシミュレーション例について概説する。 <br> 
 
 ### (招待講演) 3. "LatticeQCD.jlで始める格子QCD"
