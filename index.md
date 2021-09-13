@@ -31,6 +31,7 @@ Zoom
 
 # 動画
 [Youtube](https://www.youtube.com/playlist?list=PLckfF2jwCK3esroJw1B5WI9Xz7BJkDGMR)
+の再生リストです。
 
 # プログラム
 
